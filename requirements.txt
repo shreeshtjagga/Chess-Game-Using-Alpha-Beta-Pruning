@@ -1,1 +1,2 @@
-
+# JUST INSTALL THIS LIB IN YOUR COMPILER
+python-chess==1.999
