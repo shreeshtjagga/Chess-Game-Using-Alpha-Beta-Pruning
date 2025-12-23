@@ -44,5 +44,5 @@ By using Alpha-Beta Pruning, the AI can search deeper game states efficiently by
 ## To Clone This Repository
 
 ```bash
-git clone https://github.com/rayfin774/Chess-Game-Using-Alpha-Beta-Pruning.git
+git clone https://github.com/shreeshtjagga/Chess-Game-Using-Alpha-Beta-Pruning.git
 cd Chess-Game-Using-Alpha-Beta-Pruning
